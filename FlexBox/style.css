@@ -1,0 +1,180 @@
+/*Ex1*/
+
+#pond {
+    display: flex;
+    justify-content: flex-end
+}
+
+/*Ex2*/
+#pond {
+    display: flex;
+    justify-content: center
+}
+
+/*Ex3*/
+#pond {
+    display: flex;
+    justify-content: space-around
+}
+
+/*Ex4*/
+#pond {
+    display: flex;
+    justify-content: space-between
+}
+
+/*Ex5*/
+#pond {
+    display: flex;
+    align-items: flex-end
+}
+
+/*Ex6*/
+#pond {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*Ex7*/
+#pond {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end
+}
+
+/*Ex8*/
+#pond {
+    display: flex;
+    flex-direction: row-reverse
+}
+
+/*Ex9*/
+#pond {
+    display: flex;
+    flex-direction: column
+}
+
+/*Ex10*/
+#pond {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
+
+/*Ex11*/
+#pond {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end
+}
+
+/*Ex12*/
+#pond {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between
+}
+
+/*Ex13*/
+#pond {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-end;
+    justify-content: center
+}
+
+/*Ex14*/
+#pond {
+    display: flex;
+}
+
+.yellow {
+    order: 1
+}
+
+
+/*Ex15*/
+#pond {
+    display: flex;
+}
+
+.red {
+    order: -1
+}
+
+
+/*Ex16*/
+#pond {
+    display: flex;
+    align-items: flex-start;
+}
+
+.yellow {
+    align-self: flex-end;
+}
+
+
+/*Ex17*/
+#pond {
+    display: flex;
+    align-items: flex-start;
+}
+
+.yellow {
+    order: 1;
+    align-self: flex-end
+}
+
+
+/*Ex18*/
+#pond {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/*Ex19*/
+#pond {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap
+}
+
+
+/*Ex20*/
+#pond {
+    display: flex;
+    flex-flow: column wrap;
+}
+
+/*Ex21*/
+#pond {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+/*Ex22*/
+#pond {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-end
+}
+
+
+/*Ex23*/
+#pond {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+    align-content: center;
+}
+
+/*Ex24*/
+#pond {
+    display: flex;
+    flex-direction: column-reverse;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+    align-content: space-between;
+}
